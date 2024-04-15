@@ -1,5 +1,5 @@
 <template>
   <main>
-    <LazyContentDoc />
+    <ContentDoc />
   </main>
 </template>

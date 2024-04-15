@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     "@nuxt/content",
     "@nuxthq/studio",
   ],
+  ssr: false,
   ui: {
     icons: ["heroicons", "simple-icons"],
     safelistColors: ["primary", "red", "orange", "green"],
